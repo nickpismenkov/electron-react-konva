@@ -1,0 +1,70 @@
+{
+  "objs": [
+    {
+      "type": "rect",
+      "x": 10,
+      "y": 10,
+      "width": 10,
+      "height": 10,
+      "fill": "blue"
+    },
+    {
+      "type": "rect",
+      "x": 20,
+      "y": 20,
+      "width": 10,
+      "height": 10,
+      "fill": "red"
+    },
+    {
+      "type": "circle",
+      "x": 40,
+      "y": 40,
+      "radius": 10,
+      "fill": "green"
+    },
+    {
+      "type": "rect",
+      "x": 50,
+      "y": 50,
+      "width": 10,
+      "height": 10,
+      "fill": "pink"
+    },
+    {
+      "type": "circle",
+      "x": 60,
+      "y": 60,
+      "radius": 10,
+      "fill": "tomato"
+    },
+    {
+      "type": "circle",
+      "x": 70,
+      "y": 70,
+      "radius": 10,
+      "fill": "black"
+    },
+    {
+      "type": "circle",
+      "x": 80,
+      "y": 80,
+      "radius": 10,
+      "fill": "pink"
+    },
+    {
+      "type": "circle",
+      "x": 90,
+      "y": 90,
+      "radius": 10,
+      "fill": "red"
+    },
+    {
+      "type": "circle",
+      "x": 100,
+      "y": 100,
+      "radius": 10,
+      "fill": "green"
+    }
+  ]
+}
